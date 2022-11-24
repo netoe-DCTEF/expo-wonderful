@@ -123,7 +123,7 @@ const meuestilo = StyleSheet.create({
   },
   item: {
     padding: 20,
-    marginTop:25,
+    marginTop:10,
     marginVertical: 8,
     marginHorizontal: 16,
     borderBottomColor:'white',
